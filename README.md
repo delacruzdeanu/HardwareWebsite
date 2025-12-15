@@ -4,7 +4,7 @@ A web-based management system tailored for hardware businesses. Built with PHP, 
 
 ## 🚀 Features
 
-- 🔐 Login and Sign-Up System (with role-based access, if applicable)
+- 🔐 Login and Sign-Up System (with role-based access)
 - 🕒 Attendance Tracking
 - 📦 Inventory Management
 - 🛒 CRUD Operations for Products
